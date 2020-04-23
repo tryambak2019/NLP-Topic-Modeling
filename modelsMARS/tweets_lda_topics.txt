@@ -1,0 +1,39 @@
+Topic: 0 
+Words: 0.105*"look like" + 0.063*"thirty second" + 0.059*"david bowie" + 0.055*"feel like" + 0.044*"full moon" + 0.034*"jeff bezos" + 0.032*"last town" + 0.031*"peace earth" + 0.030*"bezos count" + 0.030*"mastermind behind"
+Topic: 1 
+Words: 0.065*"solar system" + 0.055*"elon musk" + 0.048*"far far" + 0.043*"cloud universe" + 0.043*"sun back" + 0.042*"far hill" + 0.042*"universe across" + 0.042*"back far" + 0.041*"way back" + 0.040*"hill around"
+Topic: 2 
+Words: 0.100*"scorpio moon" + 0.074*"capricorn venus" + 0.064*"sun moon" + 0.064*"moon capricorn" + 0.063*"aquarius moon" + 0.063*"uptown funk" + 0.060*"gucci mane" + 0.060*"wake sky" + 0.057*"bruno kodak" + 0.057*"kodak black"
+Topic: 3 
+Words: 0.324*"moon initiative" + 0.319*"initiative budget" + 0.319*"statement moon" + 0.019*"budget space" + 0.013*"versace floor" + 0.000*"venus gemini" + 0.000*"venus leo" + 0.000*"quality time" + 0.000*"cancer moon" + 0.000*"word affirmation"
+Topic: 4 
+Words: 0.171*"year ago" + 0.118*"fry bar" + 0.113*"get back" + 0.112*"deep fry" + 0.100*"play bruno" + 0.098*"red planet" + 0.090*"woman venus" + 0.086*"men woman" + 0.073*"another planet" + 0.000*"venus gemini"
+Topic: 5 
+Words: 0.143*"venus taurus" + 0.084*"ziggy stardust" + 0.075*"white house" + 0.070*"stardust spider" + 0.066*"grenade bruno" + 0.059*"love much" + 0.054*"rise fall" + 0.054*"fall ziggy" + 0.050*"hit different" + 0.050*"happy monday"
+Topic: 6 
+Words: 0.131*"word physical" + 0.109*"mercury venus" + 0.099*"cancer moon" + 0.095*"earth terminus" + 0.095*"terminus trantor" + 0.095*"make sense" + 0.080*"one way" + 0.075*"lock heaven" + 0.071*"jupiter saturn" + 0.067*"bruno like"
+Topic: 7 
+Words: 0.099*"moon taurus" + 0.098*"sag moon" + 0.085*"year old" + 0.082*"break news" + 0.082*"aqua venus" + 0.080*"vampire slayer" + 0.079*"would like" + 0.077*"buffy vampire" + 0.071*"venus cap" + 0.064*"donald trump"
+Topic: 8 
+Words: 0.081*"let see" + 0.080*"sun mercury" + 0.078*"talk moon" + 0.071*"like jupiter" + 0.063*"spring like" + 0.058*"make sure" + 0.056*"let play" + 0.055*"fly moon" + 0.055*"see spring" + 0.051*"hold hand"
+Topic: 9 
+Words: 0.108*"way bruno" + 0.098*"curiosity rover" + 0.092*"sample return" + 0.071*"bruno cover" + 0.065*"venus capricorn" + 0.063*"see curiosity" + 0.052*"dust devil" + 0.041*"pebble see" + 0.041*"martian pebble" + 0.041*"dance dust"
+Topic: 10 
+Words: 0.117*"pisces venus" + 0.100*"moon pisces" + 0.093*"valentine day" + 0.092*"gemini moon" + 0.073*"sun venus" + 0.057*"moon cap" + 0.055*"last year" + 0.054*"space exploration" + 0.053*"cap venus" + 0.051*"aqua moon"
+Topic: 11 
+Words: 0.070*"happy birthday" + 0.061*"cardi bruno" + 0.052*"come back" + 0.051*"comic webcomic" + 0.051*"webcomics comic" + 0.050*"comic comicstrip" + 0.050*"cartoon dailycomic" + 0.050*"dailycomic artwork" + 0.047*"rocket engine" + 0.047*"artist comic"
+Topic: 12 
+Words: 0.224*"leo moon" + 0.193*"libra venus" + 0.134*"moon libra" + 0.130*"virgo moon" + 0.070*"moon aqua" + 0.061*"sag venus" + 0.048*"get ticket" + 0.040*"physical touch" + 0.036*"venus leo" + 0.035*"know veronica"
+Topic: 13 
+Words: 0.152*"venus leo" + 0.135*"act service" + 0.125*"moon scorpio" + 0.105*"taurus moon" + 0.072*"venus pisces" + 0.048*"nowplaying bruno" + 0.046*"bruno magic" + 0.044*"sagittarius venus" + 0.044*"pisces moon" + 0.038*"call billion"
+Topic: 14 
+Words: 0.162*"physical touch" + 0.109*"quality time" + 0.108*"word affirmation" + 0.092*"get know" + 0.087*"show get" + 0.051*"cap moon" + 0.046*"every time" + 0.042*"thank much" + 0.041*"venus aquarius" + 0.039*"climate change"
+Topic: 15 
+Words: 0.212*"moon venus" + 0.138*"venus libra" + 0.132*"leo venus" + 0.128*"moon leo" + 0.063*"one day" + 0.055*"act like" + 0.048*"official video" + 0.046*"video youtube" + 0.038*"planet ape" + 0.037*"like planet"
+Topic: 16 
+Words: 0.164*"virgo venus" + 0.124*"moon virgo" + 0.083*"venus cancer" + 0.082*"space force" + 0.052*"president trump" + 0.050*"leo sun" + 0.041*"get rid" + 0.040*"love language" + 0.038*"budget increase" + 0.037*"moon program"
+Topic: 17 
+Words: 0.107*"physical affection" + 0.073*"aries venus" + 0.068*"moon aries" + 0.059*"libra moon" + 0.048*"beyond box" + 0.037*"good morning" + 0.033*"venus sag" + 0.030*"venus mercury" + 0.029*"man bruno" + 0.029*"bruno song"
+Topic: 18 
+Words: 0.094*"venus virgo" + 0.086*"gemini venus" + 0.075*"moon gemini" + 0.070*"scorpio venus" + 0.065*"venus aries" + 0.063*"venus scorpio" + 0.062*"quality time" + 0.054*"cancer venus" + 0.053*"sound like" + 0.050*"word affirmation"
+
